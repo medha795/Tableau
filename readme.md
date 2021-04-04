@@ -1,4 +1,5 @@
 # Tableau Assignment - Citi Bike Analytics
+PLEASE DOWNLOAD AND CHECK THE WORKBOOK 
 
   
 ## Task
